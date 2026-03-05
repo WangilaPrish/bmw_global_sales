@@ -1,5 +1,9 @@
-Region,Sum of Units_Sold
-China,6256750
-Europe,6045176
-RestOfWorld,6113872
-USA,6099647
+Model,Sum of Revenue_EUR
+3 Series,1.44339E+11
+5 Series,1.88992E+11
+i4,2.02905E+11
+iX,2.3506E+11
+MINI,1.24934E+11
+X3,1.75547E+11
+X5,2.12814E+11
+X7,2.86428E+11
